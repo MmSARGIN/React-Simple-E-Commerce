@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+justify-content: center;
+  background-color: rgb(151, 148, 148);
+}
+ul {
+    display: flex;
+    justify-content: center;
+    width:50%;
+  background-color: rgb(197, 197, 197);
+  border-radius: 15px;
+  padding:10px
+}
+
+.nav-link{
+    color: rgb(24, 138, 231);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 18px;
+}
+

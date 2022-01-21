@@ -1,0 +1,10 @@
+.pay {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+h1 {
+    border-bottom: brown solid 1px;
+}
